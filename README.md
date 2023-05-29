@@ -2,7 +2,7 @@
 
 ### Junior Fullstack Developer
 
-**`[Vision 👁‍| Creating 💡| Adventure 🗺 | Programming👩🏾‍💻 | IT 🌐 | QuantumLeap 🎯]`**
+**`[Vision 👁‍ | Creating 💡| Adventure 🗺 | Programming👩🏾‍💻 | IT 🌐 | QuantumLeap 🎯]`**
 <br>
 </br>
 ##
