@@ -1,9 +1,11 @@
 # 🧩Karoline Fanese 
+
 **`Junior Fullstack Developer`**
 
 **`[Vision 👁‍🗨| Creating 💡| Adventure 🗺 | Programming👩🏾‍💻 | IT 🌐 | QuantumLeap 🎯]`**
 <br>
 </br>
+##
 __________________________________________________________________________________
 
                    ___           ___           ___       ___       ___     
