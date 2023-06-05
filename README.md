@@ -22,7 +22,7 @@
                                 💻 Current status: sharpening languages & tools.
                                            ⚒️  Incoming: Portfolio.
                         
-## 〽️Languages and Tools:
+## ⚙️Languages and Tools:
 
 ![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
 ![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orang)
 ![](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%15studio%15code&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=violet)
-
+<br></br>
 ## 📊Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFanese&show_icons=true&theme=merko)
