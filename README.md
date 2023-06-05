@@ -35,7 +35,7 @@
 <br></br>
 ## 📊Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFanese&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFanese&show_icons=true&theme=highcontrast)
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32FF15&background=000000&width=430&height=35&lines=Programmer%3A+A+machine+that+turns+;+turns+coffee+into+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24FFF9&background=000000&width=435&height=40&lines=Programmer%3A++A+machine+that+turns;coffee+into+code.)](https://git.io/typing-svg)
