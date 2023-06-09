@@ -21,6 +21,7 @@
 
                                  👩🏾‍🎓 Recently I graduated from a <Academia de Código_>
                                    💻 Current status: sharpening languages & tools.
+                                  📨 You can reach me: karolinefanese.dev@gmail.com
                                               ⚒️  Incoming: Portfolio.
                                               
                         
