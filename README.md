@@ -23,7 +23,7 @@
                                  
                                    💻 Current status: sharpening languages & tools.
                                  
-                                              ⚒️  Incoming: Portfolio.
+                                               ⚒️  Incoming: Portfolio.
                                               
                         
 ## ⚙️Languages and Tools:
