@@ -23,7 +23,7 @@
                                  
                                    💻 Current status: sharpening languages & tools.
                                  
-                                               ⚒️   Incoming: Portfolio.
+                                               ⚒️ Incoming: Portfolio.
                                               
                         
 ## ⚙️Languages and Tools:
@@ -41,5 +41,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFanese&show_icons=true&theme=highcontrast)
 
-#
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24FFF9&background=000000&width=435&height=40&lines=Programmer%3A++A+machine+that+turns;coffee+into+code.)](https://git.io/typing-svg)
+
+## 📢Social:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-fanese/)
+
+
