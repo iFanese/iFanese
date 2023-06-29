@@ -3,7 +3,7 @@
 
 **`Junior Fullstack Developer`**
 
-                     [Vision 👁️‍🗨️ | Creating 💡| Adventure 🗺️ | Programming 💻 | IT 🌐 | QuantumLeap 🎯]
+                      [Vision 👁️‍🗨️ | Creating 💡| Adventure 🗺️ | Programming 💻 | IT 🌐 | QuantumLeap 🎯]
 
 
                                    ___           ___           ___       ___       ___     
@@ -23,7 +23,7 @@
                                  
                                        💻 Current status: sharpening languages & tools.
                                  
-                                               ⚒️ Incoming: --> Portfolio.
+                                                ⚒️ Incoming: --> Portfolio.
                                               
                         
 ## ⚙️Languages and Tools:
