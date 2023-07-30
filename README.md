@@ -20,8 +20,8 @@
                                   \/__/         \/__/         \/__/     \/__/     \/__/ 
  
  
-                                      🎓 Recently I graduated from a <Academia de Código_>
-                                 
+                                       🎓 Recently I graduated from a <Academia de Código_>
+                                  
                                         💻 Current status: sharpening languages & tools.
                                  
                                                ⚒️ Incoming: --> Portfolio.
