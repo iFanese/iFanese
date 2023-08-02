@@ -20,7 +20,7 @@
                                   \/__/         \/__/         \/__/     \/__/     \/__/ 
  
  
-                                            🎓 Graduated from a <Academia de Código_>
+                                           🎓 Graduated from a <Academia de Código_>
                                   
                                          💻 Current status: sharpening languages & tools.
                                  
