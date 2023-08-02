@@ -22,7 +22,7 @@
  
                                            🎓 Graduated from a <Academia de Código_>
                                   
-                                         💻 Current status: sharpening languages & tools.
+                                        💻 Current status: sharpening languages & tools.
                                  
                                                    ⚒️ Incoming: --> Portfolio.
                                               
