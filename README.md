@@ -4,7 +4,7 @@
 
 **`Junior Fullstack Developer`**
  
-                       [Vision 👁️‍🗨️ | Creating 💡| Adventure 🗺️ | Programming 💻 | IT 🌐 | QuantumLeap 🎯]
+                     [Vision 👁️‍🗨️ | Creating 💡| Adventure 🗺️ | Programming 💻 | IT 🌐 | QuantumLeap 🎯]
 
 
                                    ___           ___           ___       ___       ___     
@@ -22,7 +22,7 @@
  
                                        🎓 Graduated from a <Academia de Código_>
  
-                                           ⚒️ Incoming: --> Portfolio.
+                                              ⚒️ Incoming: --> Portfolio.
                                    
                                     💻 Current status: sharpening languages & tools.
                                  
