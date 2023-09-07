@@ -20,11 +20,11 @@
                                   \/__/         \/__/         \/__/     \/__/     \/__/ 
  
  
-                                    🎓 Graduated from a <Academia de Código_>
+                                       🎓 Graduated from a <Academia de Código_>
   
-                                          ⚒️ Incoming: --> Portfolio.
+                                              ⚒️ Incoming: --> Portfolio.
                                    
-                               💻 Current status: sharpening languages & tools.
+                                   💻 Current status: sharpening languages & tools.
                                  
                                                   
                                               
